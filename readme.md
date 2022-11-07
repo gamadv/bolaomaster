@@ -21,7 +21,6 @@
 </h4>
 
 <br>
-<img src="public/images/desktop-version.png" />
 
 # :notebook: About
 
